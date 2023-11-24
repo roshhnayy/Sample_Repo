@@ -1,0 +1,21 @@
+body{
+	background-color:white;
+	text-align: center;
+}
+
+div {
+	color: white;
+	padding: 20px;
+	margin: 20px;
+	
+
+}
+
+#topic1 {
+	background-color: red;
+	
+}
+
+#topic2 {
+	background-color: green;
+}
